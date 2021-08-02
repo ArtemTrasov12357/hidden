@@ -32,7 +32,7 @@ os.system("figlet DDos Attack")
 print
                                                                 print "Author   : hidden person"
 print "You Tube : https://youtu.be/GyT6nTjA2is"
-print "github   : https://github.com/Cobra1877/hiddenperson1899"
+print "github   : https://github.com/ArtemTrasov12357/hidden"
 print "Facebook : https://www.facebook.com/profile.php?id=100043000909115"
 print
 ip = raw_input("IP Target : ")
